@@ -16,7 +16,7 @@ public class Thing {
     public String toString() {
         return this.name + " (" + this.weight + " kg)";
     }
-
+    // o
     public static void main(String[] args) {
         Thing book = new Thing("Happiness in Three Steps", 2);
         Thing mobile = new Thing("Nokia 3210", 1);
