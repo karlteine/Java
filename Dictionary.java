@@ -1,5 +1,5 @@
 import java.util.HashMap;
-
+// o
 public class Dictionary {
     private HashMap<String,String> translations;
 
